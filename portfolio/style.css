@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 10px;
+}
+
+section{
+    margin: 20px;
+}
+
+.contract{
+
+    margin: 10px;
+    padding: 100px;
+    align-items: center;
+}
+
